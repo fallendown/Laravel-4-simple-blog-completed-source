@@ -41,7 +41,7 @@
 		</table>
 	</div>
 	@else
-	<div class="alert alsert-info col-md-4" style="margin-top: 15px">You currently have no posts</div>
+	<div class="alert alert-info col-md-4" style="margin-top: 15px">You currently have no posts</div>
 	@endif
 
 
